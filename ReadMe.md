@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi 🙏🏻, I'm Piyush Narwal<br>Building software, one line of code at a time✌️<br>    
 
 
