@@ -1,7 +1,7 @@
 
 Hi 🙏🏻, I'm Piyush Narwal<br>Building software, one line of code at a time✌️<br>    
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/f54c7d5c85af0d3706b46f5acf34ab6a5a571a1a889f9baa2cf55e4a232c575d/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f7a68595356436972524565495a744f4e43492f67697068792e6769663f6369643d6563663035653437777732797961757365306e69306473703276657835646164746a36776b783064716a313474716d76267269643d67697068792e6769662663743d73" width="128" height="128">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="203" height="127">
 
 
 👨‍💻 Portfolio [https://portfolio-taupe-delta-56.vercel.app/]
