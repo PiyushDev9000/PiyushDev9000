@@ -2,6 +2,12 @@
 Hi 🙏🏻, I'm Piyush Narwal<br>Building software, one line of code at a time✌️<br>    
 
 
+👨‍💻 Portfolio [https://portfolio-taupe-delta-56.vercel.app/]
+
+📫 How to reach me piyushswe009@gmail.com
+
+📄 resume https://drive.google.com/file/d/1PnRcImvTdO-aYS1Y8UqQpc0COHquBS5d/view
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piyush-narwal-85641a1a3/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/PiyushDev9000) 
 
