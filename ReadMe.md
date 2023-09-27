@@ -8,7 +8,7 @@ Hi 🙏🏻, I'm Piyush Narwal<br>Building software, one line of code at a time�
 
 📫 How to reach me piyushswe009@gmail.com
 
-📄 resume https://drive.google.com/file/d/17Svjek7mQhYu5luD3P_04o1Jrhy3Q5Jx/view?usp=sharing
+📄 resume https://drive.google.com/file/d/17G6WNIYSewnnvm_Z1lcaAV8nhG0GruNt/view?usp=sharing
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piyush-narwal-85641a1a3/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/PiyushDev9000) 
