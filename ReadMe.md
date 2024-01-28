@@ -3,7 +3,7 @@ Hi 🙏🏻, I'm Piyush Narwal<br>Building software, one line of code at a time�
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="400" height="250">
 
-<img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Pin by Tyress White on Coding Animations | Motion design animation ..." class=" nofocus" tabindex="0" aria-label="Pin by Tyress White on Coding Animations | Motion design animation ..." role="button">
+<img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Pin by Tyress White on Coding Animations | Motion design animation ..." class=" nofocus" tabindex="0" aria-label="Pin by Tyress White on Coding Animations | Motion design animation ..." role="button" width="400" height="250">
 
 
 👨‍💻 Portfolio [https://piyushdev9000-portfolio.vercel.app/]
